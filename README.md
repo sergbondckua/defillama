@@ -21,9 +21,9 @@ This Python script parses specific data from the DeFiLlama website at specified 
 1. Clone the repository to your local machine:
 `git clone https://github.com/sergbondckua/defillama.git` 
 2. Navigate to the project directory:
-`cd defillama`
-`pip install --upgrade pip`
-`pip install -r requirements.txt`
+- `cd defillama`
+- `pip install --upgrade pip`
+- `pip install -r requirements.txt`
 
 3. Open `config.py` file and adjust the following parameters as needed:
 - `INTERVAL_MINUTES`: Interval in minutes between each data parsing.
