@@ -9,7 +9,7 @@ import config
 
 class PageUtils:
     """
-    A base class providing common methods for interacting with the Strava
+    A base class providing common methods for interacting with
     web application.
     """
 
