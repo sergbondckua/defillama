@@ -1,0 +1,1760 @@
+[
+    {
+        "Ethereum": {
+            "protocol": "1076",
+            "tvl": "$66,368b"
+        }
+    },
+    {
+        "Tron": {
+            "protocol": "32",
+            "tvl": "$8,68b"
+        }
+    },
+    {
+        "BSC": {
+            "protocol": "756",
+            "tvl": "$5,836b"
+        }
+    },
+    {
+        "Solana": {
+            "protocol": "144",
+            "tvl": "$4,774b"
+        }
+    },
+    {
+        "Arbitrum": {
+            "protocol": "638",
+            "tvl": "$3,181b"
+        }
+    },
+    {
+        "Blast": {
+            "protocol": "122",
+            "tvl": "$2,26b"
+        }
+    },
+    {
+        "Base": {
+            "protocol": "288",
+            "tvl": "$1,747b"
+        }
+    },
+    {
+        "Merlin": {
+            "protocol": "17",
+            "tvl": "$1,21b"
+        }
+    },
+    {
+        "Bitcoin": {
+            "protocol": "19",
+            "tvl": "$1,184b"
+        }
+    },
+    {
+        "Polygon": {
+            "protocol": "556",
+            "tvl": "$974,37m"
+        }
+    },
+    {
+        "Avalanche": {
+            "protocol": "385",
+            "tvl": "$896,02m"
+        }
+    },
+    {
+        "Optimism": {
+            "protocol": "238",
+            "tvl": "$835,89m"
+        }
+    },
+    {
+        "Sui": {
+            "protocol": "33",
+            "tvl": "$715,96m"
+        }
+    },
+    {
+        "Linea": {
+            "protocol": "93",
+            "tvl": "$659,92m"
+        }
+    },
+    {
+        "Mode": {
+            "protocol": "44",
+            "tvl": "$572m"
+        }
+    },
+    {
+        "Hyperliquid": {
+            "protocol": "2",
+            "tvl": "$520,42m"
+        }
+    },
+    {
+        "Cronos": {
+            "protocol": "113",
+            "tvl": "$517,96m"
+        }
+    },
+    {
+        "Mantle": {
+            "protocol": "80",
+            "tvl": "$457,73m"
+        }
+    },
+    {
+        "TON": {
+            "protocol": "15",
+            "tvl": "$421,19m"
+        }
+    },
+    {
+        "Thorchain": {
+            "protocol": "3",
+            "tvl": "$407,62m"
+        }
+    },
+    {
+        "Aptos": {
+            "protocol": "41",
+            "tvl": "$398,8m"
+        }
+    },
+    {
+        "PulseChain": {
+            "protocol": "41",
+            "tvl": "$392,66m"
+        }
+    },
+    {
+        "zkLink Nova": {
+            "protocol": "14",
+            "tvl": "$329,54m"
+        }
+    },
+    {
+        "Near": {
+            "protocol": "23",
+            "tvl": "$318,25m"
+        }
+    },
+    {
+        "Gnosis": {
+            "protocol": "65",
+            "tvl": "$316,84m"
+        }
+    },
+    {
+        "Starknet": {
+            "protocol": "26",
+            "tvl": "$303,23m"
+        }
+    },
+    {
+        "Cardano": {
+            "protocol": "37",
+            "tvl": "$255,07m"
+        }
+    },
+    {
+        "Bitlayer": {
+            "protocol": "12",
+            "tvl": "$222,88m"
+        }
+    },
+    {
+        "Ronin": {
+            "protocol": "4",
+            "tvl": "$219,28m"
+        }
+    },
+    {
+        "Kava": {
+            "protocol": "138",
+            "tvl": "$211,7m"
+        }
+    },
+    {
+        "Rootstock": {
+            "protocol": "15",
+            "tvl": "$203,5m"
+        }
+    },
+    {
+        "Osmosis": {
+            "protocol": "17",
+            "tvl": "$168,02m"
+        }
+    },
+    {
+        "Scroll": {
+            "protocol": "73",
+            "tvl": "$156,89m"
+        }
+    },
+    {
+        "dYdX": {
+            "protocol": "2",
+            "tvl": "$146,17m"
+        }
+    },
+    {
+        "zkSync Era": {
+            "protocol": "108",
+            "tvl": "$142,36m"
+        }
+    },
+    {
+        "Fantom": {
+            "protocol": "324",
+            "tvl": "$141m"
+        }
+    },
+    {
+        "Celo": {
+            "protocol": "50",
+            "tvl": "$139,99m"
+        }
+    },
+    {
+        "MultiversX": {
+            "protocol": "21",
+            "tvl": "$137,33m"
+        }
+    },
+    {
+        "Mixin": {
+            "protocol": "10",
+            "tvl": "$131,76m"
+        }
+    },
+    {
+        "Stacks": {
+            "protocol": "10",
+            "tvl": "$128,03m"
+        }
+    },
+    {
+        "EOS": {
+            "protocol": "21",
+            "tvl": "$120,17m"
+        }
+    },
+    {
+        "Fusion": {
+            "protocol": "3",
+            "tvl": "$102,9m"
+        }
+    },
+    {
+        "Algorand": {
+            "protocol": "32",
+            "tvl": "$96,48m"
+        }
+    },
+    {
+        "Hedera": {
+            "protocol": "9",
+            "tvl": "$96,42m"
+        }
+    },
+    {
+        "ICP": {
+            "protocol": "9",
+            "tvl": "$84,77m"
+        }
+    },
+    {
+        "Karak Network": {
+            "protocol": "2",
+            "tvl": "$82,62m"
+        }
+    },
+    {
+        "MAP Protocol": {
+            "protocol": "8",
+            "tvl": "$80,28m"
+        }
+    },
+    {
+        "Metis": {
+            "protocol": "58",
+            "tvl": "$74,82m"
+        }
+    },
+    {
+        "Injective": {
+            "protocol": "21",
+            "tvl": "$71,43m"
+        }
+    },
+    {
+        "BOB": {
+            "protocol": "9",
+            "tvl": "$69,81m"
+        }
+    },
+    {
+        "Filecoin": {
+            "protocol": "19",
+            "tvl": "$67,55m"
+        }
+    },
+    {
+        "Klaytn": {
+            "protocol": "53",
+            "tvl": "$63m"
+        }
+    },
+    {
+        "DefiChain": {
+            "protocol": "3",
+            "tvl": "$62,2m"
+        }
+    },
+    {
+        "Kujira": {
+            "protocol": "15",
+            "tvl": "$61,79m"
+        }
+    },
+    {
+        "Manta": {
+            "protocol": "55",
+            "tvl": "$60,61m"
+        }
+    },
+    {
+        "Telos": {
+            "protocol": "39",
+            "tvl": "$47,95m"
+        }
+    },
+    {
+        "CORE": {
+            "protocol": "35",
+            "tvl": "$47,6m"
+        }
+    },
+    {
+        "Moonbeam": {
+            "protocol": "59",
+            "tvl": "$46,96m"
+        }
+    },
+    {
+        "NEO": {
+            "protocol": "6",
+            "tvl": "$38,97m"
+        }
+    },
+    {
+        "Canto": {
+            "protocol": "25",
+            "tvl": "$36,34m"
+        }
+    },
+    {
+        "Radix": {
+            "protocol": "9",
+            "tvl": "$34,85m"
+        }
+    },
+    {
+        "Sei": {
+            "protocol": "13",
+            "tvl": "$34,16m"
+        }
+    },
+    {
+        "Neutron": {
+            "protocol": "6",
+            "tvl": "$33,79m"
+        }
+    },
+    {
+        "Astar": {
+            "protocol": "42",
+            "tvl": "$33,73m"
+        }
+    },
+    {
+        "Mayachain": {
+            "protocol": "1",
+            "tvl": "$32m"
+        }
+    },
+    {
+        "BSquared": {
+            "protocol": "8",
+            "tvl": "$31,46m"
+        }
+    },
+    {
+        "Tezos": {
+            "protocol": "20",
+            "tvl": "$30,36m"
+        }
+    },
+    {
+        "Flow": {
+            "protocol": "5",
+            "tvl": "$28,47m"
+        }
+    },
+    {
+        "HydraDX": {
+            "protocol": "1",
+            "tvl": "$28,32m"
+        }
+    },
+    {
+        "IoTeX": {
+            "protocol": "25",
+            "tvl": "$28,26m"
+        }
+    },
+    {
+        "Fraxtal": {
+            "protocol": "7",
+            "tvl": "$27,96m"
+        }
+    },
+    {
+        "Aurora": {
+            "protocol": "59",
+            "tvl": "$27,28m"
+        }
+    },
+    {
+        "opBNB": {
+            "protocol": "38",
+            "tvl": "$25,63m"
+        }
+    },
+    {
+        "Zkfair": {
+            "protocol": "12",
+            "tvl": "$20,97m"
+        }
+    },
+    {
+        "Secret": {
+            "protocol": "9",
+            "tvl": "$20,89m"
+        }
+    },
+    {
+        "Conflux": {
+            "protocol": "16",
+            "tvl": "$19,53m"
+        }
+    },
+    {
+        "Bifrost Network": {
+            "protocol": "4",
+            "tvl": "$18,99m"
+        }
+    },
+    {
+        "Acala": {
+            "protocol": "8",
+            "tvl": "$18,02m"
+        }
+    },
+    {
+        "Oraichain": {
+            "protocol": "3",
+            "tvl": "$18m"
+        }
+    },
+    {
+        "FSC": {
+            "protocol": "1",
+            "tvl": "$16,95m"
+        }
+    },
+    {
+        "Parallel": {
+            "protocol": "5",
+            "tvl": "$16,6m"
+        }
+    },
+    {
+        "Bitcoincash": {
+            "protocol": "3",
+            "tvl": "$15,73m"
+        }
+    },
+    {
+        "Icon": {
+            "protocol": "6",
+            "tvl": "$13,03m"
+        }
+    },
+    {
+        "Polygon zkEVM": {
+            "protocol": "66",
+            "tvl": "$12,83m"
+        }
+    },
+    {
+        "WEMIX3.0": {
+            "protocol": "12",
+            "tvl": "$12,52m"
+        }
+    },
+    {
+        "Waves": {
+            "protocol": "9",
+            "tvl": "$11,67m"
+        }
+    },
+    {
+        "Bifrost": {
+            "protocol": "3",
+            "tvl": "$11,36m"
+        }
+    },
+    {
+        "UX": {
+            "protocol": "3",
+            "tvl": "$10,92m"
+        }
+    },
+    {
+        "Venom": {
+            "protocol": "3",
+            "tvl": "$10,87m"
+        }
+    },
+    {
+        "Ontology": {
+            "protocol": "3",
+            "tvl": "$10,69m"
+        }
+    },
+    {
+        "Stellar": {
+            "protocol": "3",
+            "tvl": "$10,38m"
+        }
+    },
+    {
+        "Proton": {
+            "protocol": "3",
+            "tvl": "$10,1m"
+        }
+    },
+    {
+        "Flare": {
+            "protocol": "7",
+            "tvl": "$9,98m"
+        }
+    },
+    {
+        "Alephium": {
+            "protocol": "3",
+            "tvl": "$9,71m"
+        }
+    },
+    {
+        "XDC": {
+            "protocol": "11",
+            "tvl": "$9,59m"
+        }
+    },
+    {
+        "Taiko": {
+            "protocol": "10",
+            "tvl": "$9,38m"
+        }
+    },
+    {
+        "X Layer": {
+            "protocol": "22",
+            "tvl": "$9,28m"
+        }
+    },
+    {
+        "Moonriver": {
+            "protocol": "57",
+            "tvl": "$8,83m"
+        }
+    },
+    {
+        "Carbon": {
+            "protocol": "4",
+            "tvl": "$8,54m"
+        }
+    },
+    {
+        "Pego": {
+            "protocol": "2",
+            "tvl": "$7,77m"
+        }
+    },
+    {
+        "Astar zkEVM": {
+            "protocol": "10",
+            "tvl": "$7m"
+        }
+    },
+    {
+        "smartBCH": {
+            "protocol": "23",
+            "tvl": "$6,96m"
+        }
+    },
+    {
+        "Nuls": {
+            "protocol": "4",
+            "tvl": "$6,79m"
+        }
+    },
+    {
+        "GodwokenV1": {
+            "protocol": "7",
+            "tvl": "$6,76m"
+        }
+    },
+    {
+        "DFS Network": {
+            "protocol": "1",
+            "tvl": "$6,64m"
+        }
+    },
+    {
+        "Terra2": {
+            "protocol": "14",
+            "tvl": "$6,38m"
+        }
+    },
+    {
+        "Boba": {
+            "protocol": "27",
+            "tvl": "$5,96m"
+        }
+    },
+    {
+        "Ergo": {
+            "protocol": "9",
+            "tvl": "$5,85m"
+        }
+    },
+    {
+        "Doge": {
+            "protocol": "4",
+            "tvl": "$5,7m"
+        }
+    },
+    {
+        "Meter": {
+            "protocol": "12",
+            "tvl": "$5,62m"
+        }
+    },
+    {
+        "Ultron": {
+            "protocol": "3",
+            "tvl": "$5,5m"
+        }
+    },
+    {
+        "Litecoin": {
+            "protocol": "4",
+            "tvl": "$5,45m"
+        }
+    },
+    {
+        "Interlay": {
+            "protocol": "5",
+            "tvl": "$5,18m"
+        }
+    },
+    {
+        "Archway": {
+            "protocol": "5",
+            "tvl": "$5,11m"
+        }
+    },
+    {
+        "Immutable zkEVM": {
+            "protocol": "3",
+            "tvl": "$5,07m"
+        }
+    },
+    {
+        "Persistence": {
+            "protocol": "3",
+            "tvl": "$4,99m"
+        }
+    },
+    {
+        "Vite": {
+            "protocol": "4",
+            "tvl": "$4,95m"
+        }
+    },
+    {
+        "Beam": {
+            "protocol": "2",
+            "tvl": "$4,67m"
+        }
+    },
+    {
+        "Oasys": {
+            "protocol": "2",
+            "tvl": "$4,58m"
+        }
+    },
+    {
+        "DFK": {
+            "protocol": "2",
+            "tvl": "$4,51m"
+        }
+    },
+    {
+        "Wanchain": {
+            "protocol": "9",
+            "tvl": "$4,35m"
+        }
+    },
+    {
+        "Dogechain": {
+            "protocol": "45",
+            "tvl": "$4,18m"
+        }
+    },
+    {
+        "ShimmerEVM": {
+            "protocol": "7",
+            "tvl": "$4,17m"
+        }
+    },
+    {
+        "Vision": {
+            "protocol": "2",
+            "tvl": "$3,92m"
+        }
+    },
+    {
+        "Elastos": {
+            "protocol": "3",
+            "tvl": "$3,89m"
+        }
+    },
+    {
+        "BounceBit": {
+            "protocol": "6",
+            "tvl": "$3,78m"
+        }
+    },
+    {
+        "Oasis Sapphire": {
+            "protocol": "3",
+            "tvl": "$3,78m"
+        }
+    },
+    {
+        "Horizen EON": {
+            "protocol": "7",
+            "tvl": "$3,47m"
+        }
+    },
+    {
+        "ZetaChain": {
+            "protocol": "18",
+            "tvl": "$3,47m"
+        }
+    },
+    {
+        "FunctionX": {
+            "protocol": "3",
+            "tvl": "$3,44m"
+        }
+    },
+    {
+        "Onus": {
+            "protocol": "5",
+            "tvl": "$3,33m"
+        }
+    },
+    {
+        "Kroma": {
+            "protocol": "5",
+            "tvl": "$3,31m"
+        }
+    },
+    {
+        "Terra Classic": {
+            "protocol": "30",
+            "tvl": "$3,29m"
+        }
+    },
+    {
+        "DeFiChain EVM": {
+            "protocol": "3",
+            "tvl": "$3,29m"
+        }
+    },
+    {
+        "Theta": {
+            "protocol": "5",
+            "tvl": "$3,13m"
+        }
+    },
+    {
+        "Songbird": {
+            "protocol": "6",
+            "tvl": "$3,13m"
+        }
+    },
+    {
+        "Everscale": {
+            "protocol": "2",
+            "tvl": "$3,06m"
+        }
+    },
+    {
+        "Harmony": {
+            "protocol": "60",
+            "tvl": "$2,95m"
+        }
+    },
+    {
+        "aelf": {
+            "protocol": "1",
+            "tvl": "$2,89m"
+        }
+    },
+    {
+        "DeFiVerse": {
+            "protocol": "2",
+            "tvl": "$2,87m"
+        }
+    },
+    {
+        "Evmos": {
+            "protocol": "23",
+            "tvl": "$2,78m"
+        }
+    },
+    {
+        "Degen": {
+            "protocol": "9",
+            "tvl": "$2,7m"
+        }
+    },
+    {
+        "Zilliqa": {
+            "protocol": "7",
+            "tvl": "$2,64m"
+        }
+    },
+    {
+        "OKTChain": {
+            "protocol": "36",
+            "tvl": "$2,52m"
+        }
+    },
+    {
+        "Shibarium": {
+            "protocol": "14",
+            "tvl": "$2,3m"
+        }
+    },
+    {
+        "BEVM": {
+            "protocol": "6",
+            "tvl": "$2,14m"
+        }
+    },
+    {
+        "EOS EVM": {
+            "protocol": "8",
+            "tvl": "$2,06m"
+        }
+    },
+    {
+        "Arbitrum Nova": {
+            "protocol": "10",
+            "tvl": "$1,98m"
+        }
+    },
+    {
+        "Fuse": {
+            "protocol": "23",
+            "tvl": "$1,91m"
+        }
+    },
+    {
+        "XPLA": {
+            "protocol": "2",
+            "tvl": "$1,9m"
+        }
+    },
+    {
+        "Elysium": {
+            "protocol": "1",
+            "tvl": "$1,86m"
+        }
+    },
+    {
+        "Velas": {
+            "protocol": "15",
+            "tvl": "$1,84m"
+        }
+    },
+    {
+        "KCC": {
+            "protocol": "28",
+            "tvl": "$1,84m"
+        }
+    },
+    {
+        "SXnetwork": {
+            "protocol": "1",
+            "tvl": "$1,81m"
+        }
+    },
+    {
+        "Naka": {
+            "protocol": "1",
+            "tvl": "$1,71m"
+        }
+    },
+    {
+        "Zora": {
+            "protocol": "4",
+            "tvl": "$1,69m"
+        }
+    },
+    {
+        "Karura": {
+            "protocol": "5",
+            "tvl": "$1,66m"
+        }
+    },
+    {
+        "Equilibrium": {
+            "protocol": "1",
+            "tvl": "$1,66m"
+        }
+    },
+    {
+        "Hydra": {
+            "protocol": "3",
+            "tvl": "$1,6m"
+        }
+    },
+    {
+        "re.al": {
+            "protocol": "2",
+            "tvl": "$1,46m"
+        }
+    },
+    {
+        "CosmosHub": {
+            "protocol": "4",
+            "tvl": "$1,38m"
+        }
+    },
+    {
+        "Nolus": {
+            "protocol": "1",
+            "tvl": "$1,29m"
+        }
+    },
+    {
+        "Oasis Emerald": {
+            "protocol": "19",
+            "tvl": "$1,27m"
+        }
+    },
+    {
+        "Wax": {
+            "protocol": "3",
+            "tvl": "$1,24m"
+        }
+    },
+    {
+        "Milkomeda C1": {
+            "protocol": "21",
+            "tvl": "$1,23m"
+        }
+    },
+    {
+        "SatoshiVM": {
+            "protocol": "1",
+            "tvl": "$1,21m"
+        }
+    },
+    {
+        "Obyte": {
+            "protocol": "7",
+            "tvl": "$1,13m"
+        }
+    },
+    {
+        "Kadena": {
+            "protocol": "5",
+            "tvl": "$1,11m"
+        }
+    },
+    {
+        "Migaloo": {
+            "protocol": "3",
+            "tvl": "$1,07m"
+        }
+    },
+    {
+        "Bostrom": {
+            "protocol": "1",
+            "tvl": "$1,04m"
+        }
+    },
+    {
+        "Rollux": {
+            "protocol": "2",
+            "tvl": "$1,01m"
+        }
+    },
+    {
+        "RENEC": {
+            "protocol": "1",
+            "tvl": "$931 954"
+        }
+    },
+    {
+        "Neon": {
+            "protocol": "11",
+            "tvl": "$910 418"
+        }
+    },
+    {
+        "LightLink": {
+            "protocol": "2",
+            "tvl": "$891 642"
+        }
+    },
+    {
+        "Chihuahua": {
+            "protocol": "3",
+            "tvl": "$886 292"
+        }
+    },
+    {
+        "Heiko": {
+            "protocol": "5",
+            "tvl": "$864 251"
+        }
+    },
+    {
+        "ThunderCore": {
+            "protocol": "9",
+            "tvl": "$850 461"
+        }
+    },
+    {
+        "VeChain": {
+            "protocol": "2",
+            "tvl": "$845 175"
+        }
+    },
+    {
+        "Energi": {
+            "protocol": "1",
+            "tvl": "$823 174"
+        }
+    },
+    {
+        "Rangers": {
+            "protocol": "2",
+            "tvl": "$791 469"
+        }
+    },
+    {
+        "Chiliz": {
+            "protocol": "4",
+            "tvl": "$695 510"
+        }
+    },
+    {
+        "Xai": {
+            "protocol": "1",
+            "tvl": "$694 261"
+        }
+    },
+    {
+        "Sora": {
+            "protocol": "2",
+            "tvl": "$676 564"
+        }
+    },
+    {
+        "Juno": {
+            "protocol": "10",
+            "tvl": "$657 815"
+        }
+    },
+    {
+        "Starcoin": {
+            "protocol": "3",
+            "tvl": "$611 535"
+        }
+    },
+    {
+        "HAQQ": {
+            "protocol": "1",
+            "tvl": "$607 077"
+        }
+    },
+    {
+        "NOS": {
+            "protocol": "1",
+            "tvl": "$550 389"
+        }
+    },
+    {
+        "Comdex": {
+            "protocol": "6",
+            "tvl": "$543 505"
+        }
+    },
+    {
+        "EthereumClassic": {
+            "protocol": "8",
+            "tvl": "$542 496"
+        }
+    },
+    {
+        "Concordium": {
+            "protocol": "1",
+            "tvl": "$540 535"
+        }
+    },
+    {
+        "Q Protocol": {
+            "protocol": "2",
+            "tvl": "$505 463"
+        }
+    },
+    {
+        "ENULS": {
+            "protocol": "3",
+            "tvl": "$505 440"
+        }
+    },
+    {
+        "Dash": {
+            "protocol": "1",
+            "tvl": "$493 359"
+        }
+    },
+    {
+        "Crab": {
+            "protocol": "1",
+            "tvl": "$492 600"
+        }
+    },
+    {
+        "Grove": {
+            "protocol": "1",
+            "tvl": "$472 773"
+        }
+    },
+    {
+        "Aura Network": {
+            "protocol": "1",
+            "tvl": "$468 133"
+        }
+    },
+    {
+        "inEVM": {
+            "protocol": "7",
+            "tvl": "$466 701"
+        }
+    },
+    {
+        "Boba_Bnb": {
+            "protocol": "2",
+            "tvl": "$460 460"
+        }
+    },
+    {
+        "Bittorrent": {
+            "protocol": "15",
+            "tvl": "$444 974"
+        }
+    },
+    {
+        "Step": {
+            "protocol": "2",
+            "tvl": "$421 812"
+        }
+    },
+    {
+        "CSC": {
+            "protocol": "5",
+            "tvl": "$400 734"
+        }
+    },
+    {
+        "EnergyWeb": {
+            "protocol": "1",
+            "tvl": "$399 095"
+        }
+    },
+    {
+        "Kintsugi": {
+            "protocol": "1",
+            "tvl": "$385 329"
+        }
+    },
+    {
+        "Viction": {
+            "protocol": "6",
+            "tvl": "$377 178"
+        }
+    },
+    {
+        "Manta Atlantic": {
+            "protocol": "1",
+            "tvl": "$357 666"
+        }
+    },
+    {
+        "Bitrock": {
+            "protocol": "1",
+            "tvl": "$350 512"
+        }
+    },
+    {
+        "Joltify": {
+            "protocol": "1",
+            "tvl": "$341 806"
+        }
+    },
+    {
+        "Heco": {
+            "protocol": "50",
+            "tvl": "$340 570"
+        }
+    },
+    {
+        "MVC": {
+            "protocol": "1",
+            "tvl": "$320 266"
+        }
+    },
+    {
+        "Nahmii": {
+            "protocol": "1",
+            "tvl": "$302 548"
+        }
+    },
+    {
+        "Kardia": {
+            "protocol": "7",
+            "tvl": "$291 923"
+        }
+    },
+    {
+        "Tombchain": {
+            "protocol": "1",
+            "tvl": "$289 916"
+        }
+    },
+    {
+        "Bahamut": {
+            "protocol": "3",
+            "tvl": "$289 535"
+        }
+    },
+    {
+        "MEER": {
+            "protocol": "1",
+            "tvl": "$279 814"
+        }
+    },
+    {
+        "Libre": {
+            "protocol": "1",
+            "tvl": "$266 615"
+        }
+    },
+    {
+        "Ripple": {
+            "protocol": "3",
+            "tvl": "$262 648"
+        }
+    },
+    {
+        "Ancient8": {
+            "protocol": "2",
+            "tvl": "$261 622"
+        }
+    },
+    {
+        "Stargaze": {
+            "protocol": "3",
+            "tvl": "$245 639"
+        }
+    },
+    {
+        "Genesys": {
+            "protocol": "1",
+            "tvl": "$222 648"
+        }
+    },
+    {
+        "Omax": {
+            "protocol": "2",
+            "tvl": "$189 018"
+        }
+    },
+    {
+        "Polkadex": {
+            "protocol": "1",
+            "tvl": "$185 825"
+        }
+    },
+    {
+        "Loop": {
+            "protocol": "2",
+            "tvl": "$177 831"
+        }
+    },
+    {
+        "EthereumPoW": {
+            "protocol": "18",
+            "tvl": "$147 741"
+        }
+    },
+    {
+        "Godwoken": {
+            "protocol": "3",
+            "tvl": "$145 692"
+        }
+    },
+    {
+        "OntologyEVM": {
+            "protocol": "4",
+            "tvl": "$138 108"
+        }
+    },
+    {
+        "ETHF": {
+            "protocol": "1",
+            "tvl": "$118 117"
+        }
+    },
+    {
+        "Newton": {
+            "protocol": "1",
+            "tvl": "$109 341"
+        }
+    },
+    {
+        "Shiden": {
+            "protocol": "7",
+            "tvl": "$105 356"
+        }
+    },
+    {
+        "Endurance": {
+            "protocol": "2",
+            "tvl": "$87 400"
+        }
+    },
+    {
+        "Europa": {
+            "protocol": "3",
+            "tvl": "$84 669"
+        }
+    },
+    {
+        "RSS3": {
+            "protocol": "1",
+            "tvl": "$80 334"
+        }
+    },
+    {
+        "Polkadot": {
+            "protocol": "3",
+            "tvl": "$78 904"
+        }
+    },
+    {
+        "Findora": {
+            "protocol": "5",
+            "tvl": "$77 977"
+        }
+    },
+    {
+        "Lukso": {
+            "protocol": "1",
+            "tvl": "$77 659"
+        }
+    },
+    {
+        "Crescent": {
+            "protocol": "2",
+            "tvl": "$75 381"
+        }
+    },
+    {
+        "ALV": {
+            "protocol": "2",
+            "tvl": "$70 456"
+        }
+    },
+    {
+        "Areon Network": {
+            "protocol": "1",
+            "tvl": "$61 779"
+        }
+    },
+    {
+        "Syscoin": {
+            "protocol": "4",
+            "tvl": "$57 210"
+        }
+    },
+    {
+        "Ubiq": {
+            "protocol": "1",
+            "tvl": "$56 071"
+        }
+    },
+    {
+        "Planq": {
+            "protocol": "2",
+            "tvl": "$51 524"
+        }
+    },
+    {
+        "Goerli": {
+            "protocol": "1",
+            "tvl": "$49 237"
+        }
+    },
+    {
+        "REI": {
+            "protocol": "6",
+            "tvl": "$31 160"
+        }
+    },
+    {
+        "JBC": {
+            "protocol": "3",
+            "tvl": "$29 099"
+        }
+    },
+    {
+        "Darwinia": {
+            "protocol": "1",
+            "tvl": "$25 124"
+        }
+    },
+    {
+        "Tenet": {
+            "protocol": "2",
+            "tvl": "$24 662"
+        }
+    },
+    {
+        "MultiVAC": {
+            "protocol": "3",
+            "tvl": "$24 381"
+        }
+    },
+    {
+        "Milkomeda A1": {
+            "protocol": "3",
+            "tvl": "$23 179"
+        }
+    },
+    {
+        "HPB": {
+            "protocol": "1",
+            "tvl": "$23 046"
+        }
+    },
+    {
+        "Cube": {
+            "protocol": "3",
+            "tvl": "$22 295"
+        }
+    },
+    {
+        "Lachain": {
+            "protocol": "3",
+            "tvl": "$21 175"
+        }
+    },
+    {
+        "Callisto": {
+            "protocol": "1",
+            "tvl": "$18 100"
+        }
+    },
+    {
+        "GoChain": {
+            "protocol": "1",
+            "tvl": "$12 902"
+        }
+    },
+    {
+        "Sifchain": {
+            "protocol": "1",
+            "tvl": "$11 340"
+        }
+    },
+    {
+        "Bitgert": {
+            "protocol": "12",
+            "tvl": "$10 435"
+        }
+    },
+    {
+        "IOTA EVM": {
+            "protocol": "1",
+            "tvl": "$8 863"
+        }
+    },
+    {
+        "REIchain": {
+            "protocol": "1",
+            "tvl": "$5 412"
+        }
+    },
+    {
+        "Bitnet": {
+            "protocol": "1",
+            "tvl": "$3 599"
+        }
+    },
+    {
+        "Cyber": {
+            "protocol": "2",
+            "tvl": "$2 148"
+        }
+    },
+    {
+        "Lung": {
+            "protocol": "1",
+            "tvl": "$1 024"
+        }
+    },
+    {
+        "Palm": {
+            "protocol": "2",
+            "tvl": "$546,74"
+        }
+    },
+    {
+        "AirDAO": {
+            "protocol": "1",
+            "tvl": "$156,79"
+        }
+    },
+    {
+        "DSC": {
+            "protocol": "1",
+            "tvl": "$1,53"
+        }
+    },
+    {
+        "Bitkub Chain": {
+            "protocol": "1",
+            "tvl": "$1,15"
+        }
+    },
+    {
+        "Kusama": {
+            "protocol": "1",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Celestia": {
+            "protocol": "2",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Dymension": {
+            "protocol": "1",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Quicksilver": {
+            "protocol": "1",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Pokt": {
+            "protocol": "1",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Nibiru": {
+            "protocol": "1",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Sommelier": {
+            "protocol": "1",
+            "tvl": "$0"
+        }
+    },
+    {
+        "zkSync Lite": {
+            "protocol": "4",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Stafi": {
+            "protocol": "1",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Boba_Avax": {
+            "protocol": "2",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Stride": {
+            "protocol": "1",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Dexit": {
+            "protocol": "3",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Empire": {
+            "protocol": "1",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Hoo": {
+            "protocol": "4",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Echelon": {
+            "protocol": "5",
+            "tvl": "$0"
+        }
+    },
+    {
+        "CLV": {
+            "protocol": "6",
+            "tvl": "$0"
+        }
+    },
+    {
+        "CMP": {
+            "protocol": "1",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Nova Network": {
+            "protocol": "2",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Genshiro": {
+            "protocol": "1",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Lamden": {
+            "protocol": "1",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Polis": {
+            "protocol": "1",
+            "tvl": "$0"
+        }
+    },
+    {
+        "ZYX": {
+            "protocol": "1",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Coti": {
+            "protocol": "1",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Kekchain": {
+            "protocol": "3",
+            "tvl": "$0"
+        }
+    },
+    {
+        "MUUCHAIN": {
+            "protocol": "1",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Tlchain": {
+            "protocol": "1",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Zeniq": {
+            "protocol": "1",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Bitindi": {
+            "protocol": "2",
+            "tvl": "$0"
+        }
+    },
+    {
+        "Bone": {
+            "protocol": "1",
+            "tvl": "$0"
+        }
+    },
+    {
+        "LaChain Network": {
+            "protocol": "1",
+            "tvl": "$0"
+        }
+    }
+]
