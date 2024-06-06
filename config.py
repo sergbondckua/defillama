@@ -20,9 +20,6 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Base directory
-BASE_DIR = Path(__file__).resolve().parent
-
 # Base URL
 BASE_URL = "https://defillama.com"
 
@@ -38,7 +35,7 @@ option_arguments = [
 ]
 
 # Parsing start interval in minutes
-INTERVAL_MINUTES = 1
+INTERVAL_MINUTES = 5
 
 # Proxy for webdriver
 USE_PROXY = ""  # X.X.X.X:PORT
