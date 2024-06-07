@@ -53,4 +53,3 @@ class ChainsData(PageUtils):
         config.logger.info("Processing completed successfully.")
         save_to_json(data, filename)
         config.logger.info("Data saved to file: %s", filename)
-        return
