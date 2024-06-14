@@ -1,8 +1,5 @@
 import logging
 
-from pathlib import Path
-
-from environs import Env
 from fake_useragent import UserAgent
 
 
