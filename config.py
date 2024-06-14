@@ -9,10 +9,6 @@ from fake_useragent import UserAgent
 # Fake user agent
 ua = UserAgent()
 
-# Read environment variables
-env = Env()
-env.read_env()
-
 # Enable logging
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
