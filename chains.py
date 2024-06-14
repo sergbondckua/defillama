@@ -27,7 +27,9 @@ class ChainsData(PageUtils):
     def _extract_data(self) -> list[dict[str, dict]]:
         """Extracts data from the table."""
 
-        source = self._wait_element((By.CLASS_NAME, "laCLKq"))
+        source = self._wait_element(
+            (By.XPATH, "//*[@id='__next']/div[1]/div/main/div[2]/div[4]")
+        )
         table = source.find_element(
             By.XPATH, "//*[@id='__next']/div[1]/div/main/div[2]/div[4]/div[2]"
         )
