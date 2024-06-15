@@ -31,13 +31,13 @@ class ChainsData(PageUtils):
             (By.XPATH, "//*[@id='__next']/div[1]/div/main/div[2]/div[4]")
         )
         table = source.find_element(
-            By.XPATH, "//*[@id='__next']/div[1]/div/main/div[2]/div[4]/div[2]"
+            By.XPATH, "./div[2]"
         )
 
         # Locate all rows
         rows = table.find_elements(
             By.XPATH,
-            "//*[@id='__next']/div[1]/div/main/div[2]/div[4]/div[2]/div",
+            "./div",
         )
 
         # Extract data from each row
